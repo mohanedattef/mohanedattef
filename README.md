@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohanedattef@gmail.com**
 
-- 📄 Know about my experiences [CV](https://cvdesignr.com/p/63f1eb2d2542a)
+- 📄 Know about my experiences [CV]([https://cvdesignr.com/p/63f1eb2d2542a](https://cvdesignr.com/p/654a020b4e921))
 
 - ⚡ Fun fact **I actually make music as well, give it a listen here: [links](linktr.ee/tehdataman)**
 
