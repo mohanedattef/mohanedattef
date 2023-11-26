@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohaned Attef</h1>
-<h3 align="center">A passionate Data Scientist and Machine learning Engineer</h3>
+<h3 align="center">A passionate Software Engineer/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanedattef&label=Profile%20views&color=0e75b6&style=flat" alt="mohanedattef" /> </p>
 
-- 🌱 I’m currently learning **Deep learning and Advance Data Analytics**
+- 🌱 I’m currently learning **Software QA Automation**
 
 - 📫 How to reach me **mohanedattef@gmail.com**
 
