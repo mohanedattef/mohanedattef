@@ -9,7 +9,7 @@
 
 - 📄 Know about my experience [CV](https://cvdesignr.com/p/654a020b4e921?hl=en_GB)
 
-- ⚡ Fun fact **I actually make music as well, give it a listen here: [links](linktr.ee/tehdataman)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
