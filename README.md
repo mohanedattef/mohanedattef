@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanedattef&label=Profile%20views&color=0e75b6&style=flat" alt="mohanedattef" /> </p>
 
-- 🌱 I’m currently learning **Software QA Automation**
+- 🌱 I’m currently working and improving my skills **Software Testing development**
 
 - 📫 How to reach me **mohanedattef@gmail.com**
 
-- 📄 Know about my experience [CV](https://cvdesignr.com/p/654a020b4e921?hl=en_GB)
+- 📄 Know about my experience [CV](https://chocolate-jorie-9.tiiny.site/)
 
 
 
