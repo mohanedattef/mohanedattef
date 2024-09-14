@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohaned Attef</h1>
-<h3 align="center">A passionate Software Engineer </h3>
+<h3 align="center">A passionate Software Engineer, currently working as a software development engineer in test </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanedattef&label=Profile%20views&color=0e75b6&style=flat" alt="mohanedattef" /> </p>
 
-- 🌱 I’m currently working and improving my skills **Software Testing development**
+- 🌱 I’m currently expanding my skills in **Software Automation**
 
 - 📫 How to reach me **mohanedattef@gmail.com**
 
